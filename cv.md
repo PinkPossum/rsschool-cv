@@ -3,9 +3,10 @@
 * Telephone number: +375(29)2674354
 * E-mail: weh.J@mail.ru
 * Skype: curseofroses
-### Goal
+### Summary
+* ### Goal
 *Start a career as a junior Front-end Developer and in 5 years become a senior.*
-### Personal qualities
+* ### Personal qualities
 *I possess analytical thinking, learn easily; responsible, observant, conscientious, disciplined, diligent, able to work efficiently in a team and individually.*
 ### Skills
 * HTML (BEM)
