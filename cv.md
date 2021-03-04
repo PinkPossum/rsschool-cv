@@ -9,9 +9,9 @@
 ### Summary
 
 - ### Goal
-  *Start a career as a junior Front-end Developer and in 5 years become a senior.*
+  _Start a career as a junior Front-end Developer and in 5 years become a senior._
 - ### Personal qualities
-  *I possess analytical thinking, learn easily; responsible, observant, conscientious, disciplined, diligent, able to work efficiently in a team and individually.*
+  _I possess analytical thinking, learn easily; responsible, observant, conscientious, disciplined, diligent, able to work efficiently in a team and individually._
 
 ### Skills
 
@@ -53,7 +53,7 @@ function sumSalaries(salaries) {
 
 ### Experience
 
-*Tasks on learn.javascript.ru and codewars.com.*
+_Tasks on learn.javascript.ru and codewars.com._
 
 ### Education
 
@@ -70,4 +70,4 @@ function sumSalaries(salaries) {
 
 ### English
 
-*Level - **A2** (pre-intermediate).*
+_Level - **A2** (pre-intermediate)._
