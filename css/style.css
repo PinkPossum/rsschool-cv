@@ -6,14 +6,36 @@ body {
   font-family: sans-serif;
 }
 
-main {
+.container {
   max-width: 800px;
   margin: 0 auto;
-  padding-bottom: 50px;
 }
 
 .image {
   float: left;
-  height: 165px;
+  height: 175px;
   padding-right: 60px;
+}
+
+.summary {
+  display: inline;
+}
+
+footer {
+  padding-top: 25px;
+  text-align: center;
+}
+
+.footer__items {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.list--nomarker {
+  list-style-type: none;
+}
+
+.logo {
+  width: 100px;
 }
