@@ -26,6 +26,10 @@ footer {
   text-align: center;
 }
 
+.title--hidden {
+  display: none;
+}
+
 .footer__items {
   display: flex;
   justify-content: space-around;
